@@ -1,3 +1,21 @@
+## 使用技術
+- React.js (https://github.com/facebook/react)
+- Next.js (https://github.com/vercel/next.js)
+
+## バージョン情報
+- "node": "14.19.3",
+- "yarn": "1.22.18"
+## 運用ルール
+ブランチ命名規則
+issue 番号を必ず含める
+
+＜具体例＞ issue#３ Todo の作成画面の実装の場合
+
+git checkout -b #3-Todo-Page-Layout
+
+コミットメッセージ
+#issue 番号 + 日本語で端的に
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
